@@ -1,49 +1,30 @@
 Domain
 ========
 <!--
-The first paragraph of this file should be kept short as it will be used as the
-project summary on BackdropCMS.org. Aim for about 240 characters (three lines at
-80 characters each).
-
-All lines in this file should be no more than 80 characters long for legibility,
-unless including a URL or example that requires the line to not wrap.
 |<- - - - - - - This line is exactly 80 characters for reference - - - - - - ->|
-
-Detail in READMEs should be limited to the minimum required for installation and
-getting started. More detailed documentation should be moved to a GitHub wiki
-page; for example: https://github.com/backdrop-contrib/setup/wiki/Documentation.
 -->
-WORK IN PROGRESS - not ready for installation unless you are testing or helping
-to fix issues.
+WORK IN PROGRESS - this module is very buggy, please do not use on production
+sites. However, please DO test this module, report bugs, and submit PRs. 
 
 
 Installation
 ------------
-<!--
-List the steps needed to install and configure the module. Add/remove steps as
-necessary.
--->
-
 - Install this module using the official Backdrop CMS instructions at
   https://docs.backdropcms.org/documentation/extend-with-modules.
 - TBC
 
 Issues
 ------
-<!--
-Link to the repo's issue queue.
--->
-
 Bugs and Feature Requests should be reported in the Issue Queue:
 https://github.com/backdrop-contrib/domain/issues.
 
+Documentation
+-------------------
+Please, do help us create documentation for this module. 
+https://github.com/backdrop-contrib/domain/wiki
 
 Current Maintainers
 -------------------
-<!--
-List the current maintainer(s) of the module, and note if this module needs
-new/additional maintainers.
--->
 
 - [Martin Price](https://github.com/yorkshire-pudding) - [System Horizons Ltd](https://www.systemhorizons.co.uk)
 - [Tim Erickson](https://github.com/stpaultim) - [Simplo by Triplo](https://simplo.site/)
@@ -51,13 +32,6 @@ new/additional maintainers.
 
 Credits
 -------
-<!--
-Give credit where credit's due.
-If this is a Drupal port, state who ported it, and who wrote the original Drupal
-module. If this module is based on another project, or uses third-party
-libraries, list them here. You can also mention any organisations/companies who
-sponsored the module's development.
--->
 
 Port to Backdrop CMS by:
 - [Martin Price](https://github.com/yorkshire-pudding) - [System Horizons Ltd](https://www.systemhorizons.co.uk)
@@ -74,10 +48,6 @@ Created for Drupal by [Gurpartap Singh](https://www.drupal.org/u/gurpartap-singh
 
 License
 -------
-<!--
-Mention what license this module is released under, and where people can find
-it.
--->
 
 This project is GPL v2 software.
 See the LICENSE.txt file in this directory for complete text.
